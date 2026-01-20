@@ -16,7 +16,7 @@ Key highlights:
 ---
 
 ## 📂 Project Structure
-
+```
 Food-Delivery-Analytics/
 │
 ├── data/ # CSV datasets (cleaned and raw)
@@ -36,7 +36,7 @@ Food-Delivery-Analytics/
 ├── power_bi/ # Power BI dashboards (to be added)
 │
 └── README.md # Project overview and instructions
-
+```
 
 
 ---
