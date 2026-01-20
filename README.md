@@ -33,7 +33,7 @@ Food-Delivery-Analytics/
 │
 ├── results/ # Output CSVs and charts from analysis
 │
-├── power_bi/ # Power BI dashboards (to be added)
+├── power_bi/ # Power BI dashboards
 │
 └── README.md # Project overview and instructions
 ```
