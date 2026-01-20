@@ -60,8 +60,7 @@ Food-Delivery-Analytics/
   - **Cuisine-wise performance** charts  
   - **Delivery time heatmap**  
   - Filters for Cuisine, Restaurant, and Day of Week  
-
-> ⚡ The Power BI dashboards will be added to the `power_bi/` folder once completed.  
+ 
 
 ---
 
